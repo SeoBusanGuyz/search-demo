@@ -1,13 +1,13 @@
-package com.example.search_demo_back;
+package com.seobusanguyz.search_demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SearchDemoBackApplication {
+public class SearchDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SearchDemoBackApplication.class, args);
+		SpringApplication.run(SearchDemoApplication.class, args);
 	}
 
 }

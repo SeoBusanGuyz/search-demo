@@ -1,10 +1,10 @@
-package com.example.search_demo_back;
+package com.seobusanguyz.search_demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SearchDemoBackApplicationTests {
+class SearchDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
